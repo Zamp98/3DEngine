@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1595128856 source:c:\dev\codeblocks\object_loader\main.cpp
+	"source.h"
+
+1595128875 c:\dev\codeblocks\object_loader\source.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<string>
+
+1595130204 source:c:\dev\codeblocks\object_loader\source.cpp
+	"source.h"
+
